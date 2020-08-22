@@ -10,6 +10,7 @@ class inicio extends Phaser.Scene {
     create(){
         
         var titulo = this.add.sprite(400, 200, 'pacman').setDisplaySize(200, 80);
+        var InstruccionesTxt = this.add.text(220, 400, 'Juega con las flechas del teclado.', {fill: '#ffffff' });
         this.pacman_anim = this.cache.json.get('pacman_anim');
         this.anims.fromJSON(this.pacman_anim);
 
