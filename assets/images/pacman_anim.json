@@ -1,0 +1,120 @@
+{
+    "anims": [
+        {
+            "key": "moveright",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "pacman",
+                    "frame": "pacman_move_0"
+                },
+                {
+                    "key": "pacman",
+                    "frame": "pacman_move_1"
+                },
+                {
+                    "key": "pacman",
+                    "frame": "pacman_move_2"
+                }
+            ]
+        },
+        {
+            "key": "moveleft",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "pacman",
+                    "frame": "pacman_move_3"
+                },
+                {
+                    "key": "pacman",
+                    "frame": "pacman_move_4"
+                },
+                {
+                    "key": "pacman",
+                    "frame": "pacman_move_5"
+                }
+            ]
+        },
+        {
+            "key": "moveup",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "pacman",
+                    "frame": "pacman_move_6"
+                },
+                {
+                    "key": "pacman",
+                    "frame": "pacman_move_7"
+                },
+                {
+                    "key": "pacman",
+                    "frame": "pacman_move_8"
+                }
+            ]
+        },
+        {
+            "key": "movedown",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "pacman",
+                    "frame": "pacman_move_9"
+                },
+                {
+                    "key": "pacman",
+                    "frame": "pacman_move_10"
+                },
+                {
+                    "key": "pacman",
+                    "frame": "pacman_move_11"
+                }
+            ]
+        },
+        {
+            "key": "lvl1",
+            "type": "frames",
+            "repeat": 1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "pacman",
+                    "frame": "boton_lvl1"
+                }
+            ]
+        },
+        {
+            "key": "lvl2",
+            "type": "frames",
+            "repeat": 1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "pacman",
+                    "frame": "boton_lvl2"
+                }
+            ]
+        },
+        {
+            "key": "titulo",
+            "type": "frames",
+            "repeat": 1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "pacman",
+                    "frame": "titulo"
+                }
+            ]
+        }
+    ]
+}

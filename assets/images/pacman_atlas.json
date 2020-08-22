@@ -1,0 +1,203 @@
+{
+    "frames": [
+        {
+            "filename": "pacman_move_0",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 64,
+                "h": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pacman_move_1",
+            "frame": {
+                "x": 64,
+                "y": 0,
+                "w": 64,
+                "h": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pacman_move_2",
+            "frame": {
+                "x": 128,
+                "y": 0,
+                "w": 64,
+                "h": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pacman_move_3",
+            "frame": {
+                "x": 0,
+                "y": 64,
+                "w": 64,
+                "h": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pacman_move_4",
+            "frame": {
+                "x": 64,
+                "y": 64,
+                "w": 64,
+                "h": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pacman_move_5",
+            "frame": {
+                "x": 128,
+                "y": 64,
+                "w": 64,
+                "h": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pacman_move_6",
+            "frame": {
+                "x": 0,
+                "y": 128,
+                "w": 64,
+                "h": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pacman_move_7",
+            "frame": {
+                "x": 64,
+                "y": 128,
+                "w": 64,
+                "h": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pacman_move_8",
+            "frame": {
+                "x": 128,
+                "y": 128,
+                "w": 64,
+                "h": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pacman_move_9",
+            "frame": {
+                "x": 0,
+                "y": 192,
+                "w": 64,
+                "h": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pacman_move_10",
+            "frame": {
+                "x": 64,
+                "y": 192,
+                "w": 64,
+                "h": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pacman_move_11",
+            "frame": {
+                "x": 128,
+                "y": 192,
+                "w": 64,
+                "h": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton_lvl1",
+            "frame": {
+                "x": 0,
+                "y": 256,
+                "w": 96,
+                "h": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton_lvl2",
+            "frame": {
+                "x": 96,
+                "y": 256,
+                "w": 96,
+                "h": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "titulo",
+            "frame": {
+                "x": 192,
+                "y": 256,
+                "w": 200,
+                "h": 50
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Phaser3",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
